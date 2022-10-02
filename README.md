@@ -1,2 +1,2 @@
 # Social-Network
-Social Network in cpp
+Social Network in CPP
